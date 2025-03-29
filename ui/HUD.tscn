@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://d1mmomqyq3ykw"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_left = -39.0
+offset_top = -40.0
+offset_right = 1.0
+
+[node name="ScoreLabel" type="Label" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Score: 0"
